@@ -1,0 +1,4 @@
+ma 2001 xiaoming 6.0
+mb 2002 xiaohua 7.8
+mc 2003 xiaohong 9.1
+md 2015 tianbiao 9.9
